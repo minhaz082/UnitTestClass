@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\nunit.framework.dll
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\UnitTestApp.exe
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\UnitTestApp.pdb
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\bin\Debug\nunit.framework.xml
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\PC21\Desktop\20-10 class\UnitTestApp\CalculatorTest\obj\Debug\CalculatorTest.pdb
